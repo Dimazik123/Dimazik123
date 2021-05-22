@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dimazik123
-- 👀 I’m interested in hacking, programming, malware, hacks ;)
-- 🌱 I’m currently learning html, css, javascript
+- 👋 Hi, I’m @Lel
+- 👀 I’m interested in ;)
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
